@@ -1,4 +1,4 @@
-# quiz-app
+# Drive Course App Exam App
 
 ## Project setup
 ```
