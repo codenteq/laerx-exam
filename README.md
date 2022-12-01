@@ -1,4 +1,4 @@
-# Drive Course App Exam App
+# Laerx Exam App
 
 ## Project setup
 ```
