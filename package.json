@@ -1,6 +1,7 @@
 {
-  "name": "quiz-app",
-  "version": "0.1.0",
+  "name": "laerx-exam",
+  "repository": "codenteq/laerx-exam",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
